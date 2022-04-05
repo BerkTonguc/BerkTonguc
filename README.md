@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BerkTonguc
+- 👋 Hello folks, I’m Berk Tonguc.
 - 👀 I’m a .NET Developer
 
 
