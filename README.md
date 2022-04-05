@@ -1,4 +1,4 @@
 - 👋 Hello folks, I’m Berk Tonguc.
 - 👀 I’m a .NET Developer
 - 
-![sonberk](https://user-images.githubusercontent.com/102914036/161721319-a663e9cc-829d-4030-81ac-a8a49122e30e.gif)
+![sonberkson](https://user-images.githubusercontent.com/102914036/161721904-7f3fb90b-cd12-4b86-979e-4f6cc5619ade.gif)
